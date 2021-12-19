@@ -18,3 +18,4 @@ Image before processing             |  Image after processing
 :-------------------------:|:-------------------------:
 ![](https://github.com/adilbekishev/CSS503_Team_Supra_Project_2/blob/main/stud.jpg)  |  ![](https://github.com/adilbekishev/CSS503_Team_Supra_Project_2/blob/main/stud_bin.jpg)
 
+Without any prior knowledge, a histogram of gray levels fits. It's a novel approach that validates our knowledge and provides basic insights to students and newbies to the image preprocessing environment.
